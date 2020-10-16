@@ -1,0 +1,14 @@
+.login-page{
+    border: 1px solid gray;
+    text-align: center;
+    margin-left:40%;
+    height: 300px;
+    width:350px;
+    margin-top:20px;
+    margin-bottom:30px
+
+}
+.login-image img{
+    margin-left:47%;
+    margin-top:200px;
+}
