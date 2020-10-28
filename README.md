@@ -22,9 +22,9 @@ Open(https://vigilant-sammet-62725e.netlify.app/) to view it in the website.
 
 
 ## Add Me :
-Facebook:(https://www.facebook.com/profile.php?id=100022611123213)
-Linkedin:(https://www.linkedin.com/in/abubakkar20/)
-Resume:(https://docs.google.com/document/d/1j9YplrSwESvy3T_jIKoqL5oDtAZtKEVCAPbqJgKk_-0/edit?usp=sharing)
+Facebook:(https://www.facebook.com/profile.php?id=100022611123213)<br />
+Linkedin:(https://www.linkedin.com/in/abubakkar20/)<br />
+Resume:(https://docs.google.com/document/d/1j9YplrSwESvy3T_jIKoqL5oDtAZtKEVCAPbqJgKk_-0/edit?usp=sharing)<br />
 
 
 I am a junior frontend web developer, At present i am working some project and my feedback is great.If you like my project and code you touch my profile.
