@@ -2,19 +2,23 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 ## Create agency website
 
-This is single page application
-And responsive are added 
-User management agency
-Include authentication
+This is a single page application
+
 
 ## Technology used
-1.html
-2.css
-3.boostrap
+1.html <br/>
+2.css<br />
+3.boostrap<br />
+4.React<br />
+5.React Router<br />
+6.React hooks<br />
+7.Firebase<br />
+8.Authenticated with google,Facebook and email 
     
 
-Runs the app in the development mode.<br />
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+## live site link here:
+<br />
+Open(https://vigilant-sammet-62725e.netlify.app/) to view it in the website.
 
 The page will reload if you make edits.<br />
 You will also see any lint errors in the console.
