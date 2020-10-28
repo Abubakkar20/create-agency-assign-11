@@ -1,4 +1,3 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Create agency website
 
@@ -8,7 +7,8 @@ This is a single page application
 ## Technology used
 1.html <br/>
 2.css<br />
-3.boostrap<br />
+3.Javascript<br/>
+4.boostrap<br />
 4.React<br />
 5.React Router<br />
 6.React hooks<br />
@@ -20,14 +20,16 @@ This is a single page application
 <br />
 Open(https://vigilant-sammet-62725e.netlify.app/) to view it in the website.
 
-The page will reload if you make edits.<br />
-You will also see any lint errors in the console.
 
-### `npm test`
+## Add Me :
+Facebook:(https://www.facebook.com/profile.php?id=100022611123213)
+Linkedin:(https://www.linkedin.com/in/abubakkar20/)
+Resume:(https://docs.google.com/document/d/1j9YplrSwESvy3T_jIKoqL5oDtAZtKEVCAPbqJgKk_-0/edit?usp=sharing)
 
-Launches the test runner in the interactive watch mode.<br />
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+I am a junior frontend web developer, At present i am working some project and my feedback is great.If you like my project and code you touch my profile.
+
+<!-- 
 ### `npm run build`
 
 Builds the app for production to the `build` folder.<br />
@@ -76,4 +78,4 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/de
 
 ### `npm run build` fails to minify
 
-This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify
+This section has moved here: https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify -->
