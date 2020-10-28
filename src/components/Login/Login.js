@@ -10,24 +10,24 @@ import { UserContext } from '../../App';
 
 const Login = () => {
     const [loggedInUser, setLoggedInUser] = useContext(UserContext)
-   
+
     const history = useHistory();
     const location = useLocation();
     const { from } = location.state || { from: { pathname: "/" } };
 
     if (firebase.apps.length === 0) {
         firebase.initializeApp(firebaseConfig);
-      }
-    
+    }
+
 
     const googleSignIn = () => {
         var provider = new firebase.auth.GoogleAuthProvider();
 
         firebase.auth().signInWithPopup(provider).then(function (result) {
             // This gives you a Google Access Token. You can use it to access the Google API.
-          const {displayName,email} = result.user;
+            const { displayName, email } = result.user;
             // The signed-in user info.
-            const signedInUser= {name:displayName, email}
+            const signedInUser = { name: displayName, email }
             setLoggedInUser(signedInUser)
             history.replace(from);
             // ...

@@ -14,9 +14,6 @@ import Orders from './components/Order/Order/Orders';
 import OrderLists from './components/OrderList/OrderLists';
 import Review from './components/Review/Review';
 import ServiceList from './components/ServiceList/ServiceList';
-
-
-
 export const UserContext = createContext()
 function App() {
   const [loggedInUser, setLoggedInUser] = useState({})
@@ -30,10 +27,9 @@ function App() {
           <Route path="/login">
             <Login></Login>
           </Route>
-          <Route path="/order">
+          <PrivateRoute path="/order">
             <Orders></Orders>
-          </Route>
-
+          </PrivateRoute>
           <Route path="/orderList">
             <OrderLists></OrderLists>
           </Route>
@@ -50,7 +46,6 @@ function App() {
             <MakeAdmin></MakeAdmin>
           </Route>
         </Switch>
-
       </Router>
     </UserContext.Provider>
 

@@ -6,7 +6,7 @@ import './Order.css'
 const Orders = () => {
 
     const handleSubmitForm = (e) => {
-console.log(e.target.value);
+
 
     }
     return (
