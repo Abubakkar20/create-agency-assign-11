@@ -1,10 +1,17 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## ABUBAKKAR SHEIKE
+## Create agency website
 
-In the project directory, you can run:
+This is single page application
+And responsive are added 
+User management agency
+Include authentication
 
-### `npm start`
+## Technology used
+1.html
+2.css
+3.boostrap
+    
 
 Runs the app in the development mode.<br />
 Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
